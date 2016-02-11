@@ -12,7 +12,7 @@ while True:
 
     #print z
 
-    """Check whether IP address entered is Valid"""
+    """Check whether IP address entered is Valid """
 
     if x == 'done':
         break
